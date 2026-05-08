@@ -14,7 +14,7 @@ def classify_bmi(bmi):
 
 
 def health_advice(category):
-    if category == "Underweight":
+    if category == "Underweight2":
         return "You may need to increase calorie intake and focus on strength training."
     elif category == "Normal":
         return "Great! Maintain a balanced diet and regular exercise."
